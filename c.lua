@@ -17,7 +17,7 @@ local Troops = Tab:CreateLabel("Troops: ")
 local Extra = Tab:CreateSection("Extra")
 
 local Instructions = Tab:CreateParagraph({Title = "Instructions", Content = "just click on someone to see their loadout and more"})
-local Credits = Tab:CreateParagraph({Title = "Credits", Content = "made by poseidon#0364 (feel free to dm for questions, comments, and concerns)"})
+local Credits = Tab:CreateParagraph({Title = "Credits", Content = "Nigger"})
 
 local players = game:GetService("Players")
 local player = players.LocalPlayer
